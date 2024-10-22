@@ -72,7 +72,3 @@
 - [ ] **Kontinuierliche Priorisierung**: Der Product Backlog wird regelmäßig priorisiert, während der Sprint Backlog für die aktuelle Sprint-Laufzeit stabil bleibt.
 - [ ] **Refinement und Updates**: Product Backlog Items werden regelmäßig in Refinement-Sessions aktualisiert und detailliert, um bereit für die kommenden Sprints zu sein.
 - [ ] **Team-Transparenz**: Beide Backlogs sind für das gesamte Team jederzeit transparent einsehbar, damit jeder den aktuellen Stand der Aufgaben kennt.
-
----
-
-Dieses **Product Backlog und Sprint Backlog Template** hilft dir, beide Backlogs effizient zu verwalten und sicherzustellen, dass die Arbeit des Teams klar strukturiert und nachvollziehbar ist.
