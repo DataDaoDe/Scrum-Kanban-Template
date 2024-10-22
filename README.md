@@ -26,3 +26,9 @@ Geh die Vorlagen und Dokumente durch und füll die Vorlagen aus, während ihr di
 11. [Release Planning](/src/Release_Planning.md)
 12. [Rollen: Product Owner, Scrum Master, Entwicklungsteam](/src/Rollen.md)
 13. [Coding Standards](/src/Coding_Standards.md)
+
+
+## Referenzen
+1. [Manifest für Agile Softwareentwicklung](https://agilemanifesto.org/iso/de/manifesto.html)
+1. [Was ist Scrum?](https://digitaleneuordnung.de/blog/scrum-methode/)
+2. [Scrum Wikipedia](https://de.wikipedia.org/wiki/Scrum)
